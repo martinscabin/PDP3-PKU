@@ -243,8 +243,7 @@ qrst-abcd-
 
 **提示**
 
-提示 1：如果将程序中所有 "MyString" 用 "string" 替换，那么除
-了最后两条红色的语句编译无法通过外，其他语句都没有问题，而且输出和前面给的结果吻合。也就是说，MyString 类对 string 类的功能扩充只体现在最后两条语句上面。 
+提示 1：如果将程序中所有 "MyString" 用 "string" 替换，那么除了最后两条红色的语句编译无法通过外，其他语句都没有问题，而且输出和前面给的结果吻合。也就是说，MyString 类对 string 类的功能扩充只体现在最后两条语句上面。 
 
 提示 2: string 类有一个成员函数 string substr(int start,int length); 能够求从 start 位置开始，长度为 length 的子串 
 
