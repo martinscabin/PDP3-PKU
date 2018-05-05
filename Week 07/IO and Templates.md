@@ -78,9 +78,9 @@
     			cin >> array[i];
     		for(int j = 0; j < n; ++j)
     			cin >> a[j];
-    		MyForeach(array,array+m,Print);		 
+    		MyForeach(array,array+m,Print);
     		cout << endl;
-    		MyForeach(a,a+n,Inc);		 
+    		MyForeach(a,a+n,Inc);
     		for(int i = 0;i < n; ++i)
     			cout << a[i] << ",";
     		cout << endl;
